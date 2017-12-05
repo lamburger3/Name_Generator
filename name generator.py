@@ -2,11 +2,11 @@ import random
 '''
 These variables are stored with the first and second part that would make first and last names. These will be added together to form a full name
 '''
-first_name_1 = ("Rom", "Kor", "Sep", "Sor", "Ren", "Jarl", "Kren", "Balg", "Boro", "Orog", "Kora", "Imu", "Ora", "Imon", "Lukar", "Orlan", "Torg", "Ma", "Lor", "Be", "Uka", "Bori", "Zen", "Ze")
-first_name_2 = ("ulan", "ulas", "ulus" ,"ulan", "oran", "lero", "udan", "igan", "oro", "on", "uru", "korag", "lan", "ohk", "lem", "tar", "sek", "cor", "kor", "sor", "mar", "kahn", "kan", "can", "mok", "yuk", "zar")
+first_name_1 = ("Rom", "Kor", "Sep", "Sor", "Ren", "Jarl", "Kren", "Balg", "Boro", "Orog", "Kora", "Imu", "Ora", "Imon", "Lukar", "Orlan", "Torg", "Ma", "Lor", "Be", "Uka", "Bori", "Zen", "Ze", "Lor", "Jur", "Jor", "Rok", "Roe", "Rot", "Woth", "Wil", "Val", "Ven", "Ma", "Mik", "Olo", "Erwa", "Zen", "Hak", "Hok", "Hur", "Gil", "Sen")
+first_name_2 = ("ulan", "ulas", "ulus" ,"ulan", "oran", "lero", "udan", "igan", "oro", "on", "uru", "korag", "lan", "ohk", "lem", "tar", "sek", "cor", "kor", "sor", "mar", "kahn", "kan", "can", "mok", "yuk", "zar", "fel", "lok", "mer", "mur", "mir", "lir", "lor", "ack", "ser", "tur", "rut", "ouk", "wek", "wec", "vec", "ven", "vem", "yut", "yui", "yuo", "yul", "bir", "bis", "bow", "ez")
 
-last_name_1 = ("Rom", "Kor", "Sep", "Sor", "Ren", "Jarl", "Kren", "Balg", "Boro", "Orog", "Kora", "Imu", "Ora", "Imon", "Lukar", "Orlan", "Torg", "Ma", "Lor", "Be", "Uka", "Bori", "Zen", "Ze")
-last_name_2 = ("ulan", "ulas", "ulus" ,"ulan", "oran", "lero", "udan", "igan", "oro", "on", "uru", "korag", "lan", "ohk", "lem", "tar", "sek", "cor", "kor", "sor", "mar", "kahn", "kan", "can", "mok", "yuk", "zar")
+last_name_1 = ("Rom", "Kor", "Sep", "Sor", "Ren", "Jarl", "Kren", "Balg", "Boro", "Orog", "Kora", "Imu", "Ora", "Imon", "Lukar", "Orlan", "Torg", "Ma", "Lor", "Be", "Uka", "Bori", "Zen", "Ze", "Lor", "Jur", "Jor", "Rok", "Roe", "Rot", "Woth", "Wil", "Val", "Ven", "Ma", "Mik", "Olo", "Erwa", "Zen", "Hak", "Hok", "Hur", "Gil", "Sen")
+last_name_2 = ("ulan", "ulas", "ulus" ,"ulan", "oran", "lero", "udan", "igan", "oro", "on", "uru", "korag", "lan", "ohk", "lem", "tar", "sek", "cor", "kor", "sor", "mar", "kahn", "kan", "can", "mok", "yuk", "zar", "fel", "lok", "mer", "mur", "mir", "lir", "lor", "ack", "ser", "tur", "rut", "ouk", "wek", "wec", "vec", "ven", "vem", "yut", "yui", "yuo", "yul", "bir", "bis", "bow", "ez")
 '''
 This function takes as a parameter the number of names to generate and generates and prints out that number of names
 '''
